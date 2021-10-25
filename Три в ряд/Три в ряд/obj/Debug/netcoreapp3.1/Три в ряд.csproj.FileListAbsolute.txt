@@ -1,0 +1,13 @@
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.csprojAssemblyReference.cache
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.AssemblyInfoInputs.cache
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.AssemblyInfo.cs
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.csproj.CoreCompileInputs.cache
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\bin\Debug\netcoreapp3.1\Три в ряд.exe
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\bin\Debug\netcoreapp3.1\Три в ряд.deps.json
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\bin\Debug\netcoreapp3.1\Три в ряд.runtimeconfig.json
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\bin\Debug\netcoreapp3.1\Три в ряд.runtimeconfig.dev.json
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\bin\Debug\netcoreapp3.1\Три в ряд.dll
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\bin\Debug\netcoreapp3.1\Три в ряд.pdb
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.dll
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.pdb
+C:\Users\asoon\source\repos\Три в ряд\Три в ряд\obj\Debug\netcoreapp3.1\Три в ряд.genruntimeconfig.cache
